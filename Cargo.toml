@@ -8,7 +8,9 @@ edition = "2018"
 
 [dependencies]
 chrono = "0.4.11"
-
+telegram-bot = "0.7.0"
+tokio-core = "0.1.17"
+futures = "0.1.23"
 
 [[bin]]
 name = "main"
@@ -21,3 +23,7 @@ path = "src/we_have_time.rs"
 [[bin]]
 name = "fib"
 path = "src/fib.rs"
+
+[[bin]]
+name = "bot"
+path = "src/bot.rs"
