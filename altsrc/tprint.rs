@@ -37,13 +37,6 @@ use tokio::time::{self, Duration};
 //     // do work
 // }
 
-async fn do_stuff_async() {
-    // async work
-}
-
-async fn more_async_work() {
-    // more here
-}
 
 #[tokio::main]
 async fn main() {
