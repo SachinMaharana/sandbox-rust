@@ -9,8 +9,14 @@ edition = "2018"
 [dependencies]
 chrono = "0.4.11"
 telegram-bot = "0.7.0"
-tokio-core = "0.1.17"
-futures = "0.1.23"
+futures = "0.3"
+tokio = { version = "0.2", features = ["full"] }
+femme = "1.3.0"
+log = "0.4.8"
+
+[dependencies.async-std]
+version = "1.5.0"
+features = ["attributes","unstable"]
 
 [[bin]]
 name = "main"
@@ -27,3 +33,57 @@ path = "src/fib.rs"
 [[bin]]
 name = "bot"
 path = "src/bot.rs"
+[[bin]]
+name = "gen"
+path = "src/gen.rs"
+
+[[bin]]
+name = "by_generics"
+path = "src/by_generics.rs"
+
+[[bin]]
+name = "toks"
+path = "src/toks.rs"
+
+[[bin]]
+name = "echo"
+path = "src/echo.rs"
+[[bin]]
+name = "five"
+path = "src/five.rs"
+
+
+[[bin]]
+name = "stds"
+path = "src/stds.rs"
+
+[[bin]]
+name = "ahello"
+path = "src/async-hello.rs"
+
+[[bin]]
+name = "aline"
+path = "src/async-line.rs"
+
+[[bin]]
+name = "adir"
+path = "src/async-dir.rs"
+
+[[bin]]
+name = "alog"
+path = "src/async-log.rs"
+
+
+[[bin]]
+name = "thello"
+path = "altsrc/thello.rs"
+
+[[bin]]
+name = "tline"
+path = "altsrc/tline.rs"
+[[bin]]
+name = "tdir"
+path = "altsrc/tdir.rs"
+[[bin]]
+name = "tprint"
+path = "altsrc/tprint.rs"
