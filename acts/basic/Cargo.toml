@@ -13,5 +13,3 @@ log = "0.4.0"
 env_logger = "0.7.1"
 actix-http = "2.0.0-alpha.2"
 awc = "2.0.0-alpha.1"
-
-[[bin]]
