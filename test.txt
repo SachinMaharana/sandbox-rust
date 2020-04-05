@@ -1,0 +1,1365 @@
+●  block_on
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/block_on.rs:45
+   › task_id: 1
+   › parent_task_id: 0
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 2
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 3
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 4
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 5
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 6
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 7
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 8
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 9
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 10
+   › parent_task_id: 1
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 11
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 12
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 13
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 14
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 15
+   › parent_task_id: 1
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 16
+   › parent_task_id: 1
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 17
+   › parent_task_id: 1
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 18
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 19
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 20
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 21
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 22
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 23
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 24
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 25
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 26
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 27
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 28
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 29
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 30
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 31
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 32
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 33
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 34
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 35
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 36
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 37
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 38
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 39
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 40
+   › parent_task_id: 1
+
+●  spawn
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:41
+   › task_id: 41
+   › parent_task_id: 1
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to 13.227.185.82:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 202ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 202ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 203ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  GET /rust/1.11.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.3.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.10.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.7.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.8.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.9.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.5.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.0.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.1.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.6.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.2.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.4.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 147 individuals contribute to 1.10.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 12
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 174 individuals contribute to 1.8.0.
+   src/bin/con.rs:29
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 10
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+●  We have had 113 individuals contribute to 1.0.0.
+   src/bin/con.rs:29
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 137 individuals contribute to 1.9.0.
+   src/bin/con.rs:29
+
+●  We have had 181 individuals contribute to 1.2.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 2
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 11
+
+●  We have had 146 individuals contribute to 1.6.0.
+   src/bin/con.rs:29
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 4
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 8
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 157 individuals contribute to 1.5.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 7
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 132 individuals contribute to 1.4.0.
+   src/bin/con.rs:29
+
+●  We have had 134 individuals contribute to 1.3.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 6
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 5
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  We have had 169 individuals contribute to 1.1.0.
+   src/bin/con.rs:29
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 3
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 152 individuals contribute to 1.7.0.
+   src/bin/con.rs:29
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 9
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 134 individuals contribute to 1.11.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 13
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 93ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 88ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 87ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 98ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 90ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 97ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 113ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 101ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 103ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 98ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 103ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 97ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  GET /rust/1.30.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.39.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.31.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.37.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.32.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.27.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.29.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.12.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.26.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.33.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.28.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.38.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 228 individuals contribute to 1.37.0.
+   src/bin/con.rs:29
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 39
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 302 individuals contribute to 1.31.0.
+   src/bin/con.rs:29
+
+●  We have had 253 individuals contribute to 1.39.0.
+   src/bin/con.rs:29
+
+●  We have had 260 individuals contribute to 1.28.0.
+   src/bin/con.rs:29
+
+●  We have had 196 individuals contribute to 1.12.0.
+   src/bin/con.rs:29
+
+●  We have had 292 individuals contribute to 1.30.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 41
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 33
+
+●  We have had 318 individuals contribute to 1.29.0.
+   src/bin/con.rs:29
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 225 individuals contribute to 1.27.0.
+   src/bin/con.rs:29
+
+●  We have had 250 individuals contribute to 1.32.0.
+   src/bin/con.rs:29
+
+●  We have had 234 individuals contribute to 1.33.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 30
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 14
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 32
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 31
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 29
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 35
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 34
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 294 individuals contribute to 1.26.0.
+   src/bin/con.rs:29
+
+●  We have had 336 individuals contribute to 1.38.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 28
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 40
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 106ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 106ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 108ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 107ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 109ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 116ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 113ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 113ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 115ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 114ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 116ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 115ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  GET /rust/1.25.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.23.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.35.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.24.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.15.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.13.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.14.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.34.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.20.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.21.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.36.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.16.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 324 individuals contribute to 1.35.0.
+   src/bin/con.rs:29
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 37
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 222 individuals contribute to 1.24.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 26
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 278 individuals contribute to 1.23.0.
+   src/bin/con.rs:29
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 147 individuals contribute to 1.14.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 25
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+●  We have had 513 individuals contribute to 1.25.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 16
+
+◎  trying to connect to thanks.rust-lang.org:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/streams.rs:56
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+●  We have had 124 individuals contribute to 1.15.0.
+   src/bin/con.rs:29
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 17
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 27
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  We have had 233 individuals contribute to 1.36.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 38
+
+◎  trying to connect to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:66
+
+●  We have had 234 individuals contribute to 1.21.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 23
+
+●  We have had 294 individuals contribute to 1.34.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 36
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 148 individuals contribute to 1.16.0.
+   src/bin/con.rs:29
+
+●  We have had 181 individuals contribute to 1.13.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 18
+
+●  We have had 191 individuals contribute to 1.20.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 15
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 22
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 107ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 89ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 96ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  successfully connected to [2600:9000:21f6:8800:9:7293:fb00:93a1]:443, took 98ms
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/happy.rs:41
+
+◎  GET /rust/1.22.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.19.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.18.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  GET /rust/1.17.0/ HTTP/1.1
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:171
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+◎  creating a length body reader
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/body_reader.rs:86
+
+◎  creating gzip decoder
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/parsing/compressed_reader.rs:57
+
+◎  status code 200
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/attohttpc-0.12.0/src/request/mod.rs:204
+
+●  We have had 291 individuals contribute to 1.18.0.
+   src/bin/con.rs:29
+
+●  We have had 243 individuals contribute to 1.19.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 20
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 21
+
+●  We have had 496 individuals contribute to 1.22.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 24
+
+●  We have had 567 individuals contribute to 1.17.0.
+   src/bin/con.rs:29
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/builder.rs:57
+   › task_id: 19
+
+●  completed
+   /home/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-1.5.0/src/task/block_on.rs:61
+   › task_id: 1
+
