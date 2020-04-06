@@ -78,14 +78,14 @@ path = "src/async-log.rs"
 
 [[bin]]
 name = "thello"
-path = "altsrc/thello.rs"
+path = "tokio-exm/thello.rs"
 
 [[bin]]
 name = "tline"
-path = "altsrc/tline.rs"
+path = "tokio-exm/tline.rs"
 [[bin]]
 name = "tdir"
-path = "altsrc/tdir.rs"
+path = "tokio-exm/tdir.rs"
 [[bin]]
 name = "tprint"
-path = "altsrc/tprint.rs"
+path = "tokio-exm/tprint.rs"
