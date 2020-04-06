@@ -27,7 +27,7 @@ fn main() {
         ],
     };
 
-    println!("{} {}", is_present(&names, 48), is_present(names, 49));
+    println!("{} {}", is_present(&names, 48), is_present(&names, 49));
 }
 
 trait Searchable<Key> {
