@@ -2,7 +2,7 @@ use bson::doc;
 use chrono::{DateTime, Duration, Utc};
 use crypto::digest::Digest;
 use crypto::sha2::Sha256;
-use jsonwebtoken::{encode, EncodingKey, Header};
+use jsonwebtoken::{decode, encode, Algorithm, DecodingKey, EncodingKey, Header, Validation};
 use mongodb::error::Error;
 use mongodb::Client;
 use std::process;
@@ -14,6 +14,8 @@ pub trait IUserRepository {
     fn find_user_with_email(&self, email: String) -> Result<Option<User>, Error>;
     fn register(&self, user: Register) -> Response;
     fn login(&self, user: Login) -> Result<LoginResponse, Response>;
+    fn user_information(&self, token: &str) -> Result<Option<User>, Response>;
+    fn protected_function(&self) -> bool;
 }
 
 pub struct UserRepository {
@@ -21,6 +23,46 @@ pub struct UserRepository {
 }
 
 impl IUserRepository for UserRepository {
+    fn user_information(&self, token: &str) -> Result<Option<User>, Response> {
+        let config = Config {};
+        let var;
+        match config.get_config_with_key("SECRET_KEY") {
+            Some(db) => var = db,
+            None => {
+                println!("SECRET_KEY not set. Exiting");
+                process::exit(1)
+            }
+        }
+
+        let key = var.as_bytes();
+
+        let decode = decode::<Claims>(
+            token,
+            &DecodingKey::from_secret(key),
+            &Validation::new(Algorithm::HS256),
+        );
+
+        match decode {
+            Ok(decoded) => {
+                match self.find_user_with_email((decoded.claims.sub.to_string()).parse().unwrap()) {
+                    Ok(user) => Ok(user),
+                    Err(_) => Err(Response {
+                        status: false,
+                        message: "Something Wrong".to_string(),
+                    }),
+                }
+            }
+            Err(_) => Err(Response {
+                status: false,
+                message: "Invalid Token".to_string(),
+            }),
+        }
+    }
+
+    fn protected_function(&self) -> bool {
+        true
+    }
+
     fn login(&self, user: Login) -> Result<LoginResponse, Response> {
         match self.find_user_with_email(user.email.to_string()).unwrap() {
             Some(x) => {

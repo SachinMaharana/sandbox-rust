@@ -1,11 +1,9 @@
-#[macro_use]
-extern crate actix_web;
-
 use actix_web::http::ContentEncoding;
 use actix_web::{middleware, web, App, HttpServer};
 
 mod config;
 mod db;
+mod middlewares;
 mod models;
 mod repositories;
 
