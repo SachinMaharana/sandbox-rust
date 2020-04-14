@@ -706,6 +706,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "error_handling"
+version = "0.1.0"
+dependencies = [
+ "actix-rt",
+ "actix-web",
+ "derive_more",
+ "env_logger",
+ "rand 0.7.3",
+]
+
+[[package]]
 name = "failure"
 version = "0.1.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
