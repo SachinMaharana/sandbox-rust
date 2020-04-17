@@ -1,0 +1,21 @@
+
+// docker run --name mysqlc -d -p 3306:3306  -e MYSQL_ROOT_PASSWORD=password123 -v $HOME/docker/volumes/mysql:/bitnami/mysql bitnami/mysql:latest
+
+// sudo chown -R 1001:1001 mysql
+// select host, user, from mysql.user;
+// CREATE USER 'web'@'172.17.0.2';
+
+// GRANT SELECT, INSERT ON snippetbox.* TO 'webs'@'172.17.0.2';
+
+// ALTER USER 'gone' IDENTIFIED BY 'pass';
+// GRANT ALL PRIVILEGES ON `snippetbox`.* TO 'gone';
+
+CREATE TABLE snippets (
+  id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(255) NOT NULL,
+  content TEXT NOT NULL,
+  created DATETIME NOT NULL,
+  expires DATETIME NOT NULL
+);
+
+CREATE INDEX idx_snippets_created ON snippets(created); 
