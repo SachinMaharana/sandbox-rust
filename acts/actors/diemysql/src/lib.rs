@@ -23,7 +23,6 @@ use self::models::{NewSnippet, Snippet};
 
 pub fn create_snippet(conn: &MysqlConnection, title: String, content: String) -> Snippet {
     use schema::snippets;
-    // use schema::snippets::dsl::*;
 
     let new_snippet = NewSnippet {
         title: title.to_string(),

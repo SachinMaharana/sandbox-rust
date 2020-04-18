@@ -5,10 +5,16 @@
 // select host, user, from mysql.user;
 // CREATE USER 'web'@'172.17.0.2';
 
+CREATE USER 'snipper';
+CREATE DATABASE snipper_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ALTER USER 'snipper' IDENTIFIED BY 'snip123';
+
+
+
 // GRANT SELECT, INSERT ON snippetbox.* TO 'webs'@'172.17.0.2';
 
 // ALTER USER 'gone' IDENTIFIED BY 'pass';
-// GRANT ALL PRIVILEGES ON `snippetbox`.* TO 'gone';
+GRANT ALL PRIVILEGES ON `snipper_db`.* TO 'gone';
 
 CREATE TABLE snippets (
   id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -19,3 +25,44 @@ CREATE TABLE snippets (
 );
 
 CREATE INDEX idx_snippets_created ON snippets(created); 
+
+GRANT SUPER ON snipper_db.snippets TO 'snipper';
+
+diesel migration generate create_snippets;
+
+CREATE TABLE snippets (
+  id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  title VARCHAR
+(100) NOT NULL,
+  content TEXT NOT NULL,
+  created DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  expires DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TRIGGER `date_trigger` BEFORE INSERT ON `snippets`
+FOR EACH ROW SET
+    NEW.expires = TIMESTAMPADD(DAY, 365, NEW.created);
+
+CREATE INDEX idx_snippets_created ON snippets(created);
+
+
+----
+docker run --name mysqlc -d -p 3306:3306 -p 33060:33060  -e MYSQL_ROOT_PASSWORD=pass123 -v $HOME/docker/volumes/snipsql:/bitnami/mysql bitnami/mysql:latest
+
+sudo chown -R 1001:1001 $HOME/docker/volumes/snipsql
+
+CREATE USER 'snipper';
+CREATE DATABASE snipper_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ALTER USER 'snipper' IDENTIFIED BY 'snip123';
+
+GRANT ALL PRIVILEGES ON `snipper_db`.* TO 'snipper';
+GRANT SUPER ON `snipper_db`.* TO 'snipper';
+
+
+CREATE TRIGGER `date_trigger` BEFORE INSERT ON `snippets`
+FOR EACH ROW SET
+    NEW.expires = TIMESTAMPADD(DAY, 365, NEW.created);
+
+GRANT ALL ON snipper_db.snippets TO 'snipper';
+
+curl -d '{"title": "crabs",content:"Okay"' -H 'Content-Type: application/json' http://127.0.0.1:8080/snippets/create

@@ -1,0 +1,17 @@
+docker run --name mysqlc -d -p 3306:3306 -p 33060:33060  -e MYSQL_ROOT_PASSWORD=pass123 -v $HOME/docker/volumes/snipsql:/bitnami/mysql bitnami/mysql:latest
+
+sudo chown -R 1001:1001 $HOME/docker/volumes/snipsql
+
+CREATE USER 'snipper';
+CREATE DATABASE snipper_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ALTER USER 'snipper' IDENTIFIED BY 'snip123';
+
+GRANT ALL PRIVILEGES ON `snipper_db`.* TO 'snipper';
+GRANT SUPER ON `snipper_db`.* TO 'snipper';
+
+
+CREATE TRIGGER `date_trigger` BEFORE INSERT ON `snippets`
+FOR EACH ROW SET
+    NEW.expires = TIMESTAMPADD(DAY, 365, NEW.created);
+
+GRANT ALL ON snipper_db.snippets TO 'snipper';

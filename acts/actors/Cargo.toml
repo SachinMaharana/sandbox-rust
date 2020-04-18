@@ -1,5 +1,5 @@
 
 [workspace]
 
-members = ["base","async_db","tiktok", "isotope","error_handling","webs","async2","pg", "deez","diestart","diemysql"]
+members = ["base","async_db","tiktok", "isotope","error_handling","webs","async2","pg", "deez","diestart","diemysql","sane"]
 
