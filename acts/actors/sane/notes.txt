@@ -1,0 +1,23 @@
+
+
+docker run --rm   --name pg-docker -e POSTGRES_PASSWORD=docker -d -p 5432:5432 -v $HOME/docker/volumes/postgres:/var/lib/postgresql/data  postgres
+
+
+psql -h localhost -U postgres
+docker
+
+postgres# create database auth;
+CREATE DATABASE
+postgres# create user sane with encrypted password 'mypass';
+CREATE ROLE
+postgres# grant ALL on privileges DATABASE auth to sane;
+ERROR:  syntax error at or near "DATABASE"
+LINE 1: grant ALL on privileges DATABASE auth to sane;
+                                ^
+postgres# grant ALL  privileges on DATABASE auth to sane;
+GRANT
+postgres#
+
+
+psql -h localhost -U sane auth 
+mypass
