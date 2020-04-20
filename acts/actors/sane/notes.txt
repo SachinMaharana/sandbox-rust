@@ -21,3 +21,33 @@ postgres#
 
 psql -h localhost -U sane auth 
 mypass
+
+curl --request POST \
+  --url http://localhost:3000/api/invitation \
+  --header 'content-type: application/json' \
+  --data '{"email":"sachin@nicky@gmail.com"}'
+
+  cccb001c-a839-4210-8d89-d70f41144849
+
+  curl --request POST \
+  --url http://localhost:3000/api/register/  cccb001c-a839-4210-8d89-d70f41144849 \
+  --header 'content-type: application/json' \
+  --data '{"password":"password"}'
+
+
+  curl -i --request POST \
+  --url http://localhost:3000/api/auth \
+  --header 'content-type: application/json' \
+  --data '{"email": "sachin.nicky@gmail.com","password":"password"}'
+
+
+curl -i --request GET \
+  --url http://localhost:3000/api/auth \
+  --cookie auth=Ne2USTyZ3TNe9kIZ3Qg5sbPLjAqK3korgDWFrJdhRAJZ6XiRPaScDA1o2ErfOQJ6ndXwIa11pbMI2UP3Q5w=
+
+
+  Hi. Thanks for writing this blog about actix-web examples. Its immensely helping me to learn
+  rust geenrally and actix specifically. I have been following this repo and had to clarify few
+  things with you if you have free time.
+  https://github.com/actix/examples/tree/master/simple-auth-server. i see that there is a static folder
+  but i couldn't find where and how it used here. Am i missing something?

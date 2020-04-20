@@ -1,12 +1,13 @@
 #[macro_use]
 extern crate diesel;
 
+use actix_files as fs;
+use actix_identity::{CookieIdentityPolicy, IdentityService};
+use actix_web::{middleware, web, App, HttpServer};
 use diesel::prelude::*;
 use diesel::r2d2::{self, ConnectionManager};
 
-use actix_identity::{CookieIdentityPolicy, IdentityService};
-use actix_web::{middleware, web, App, HttpServer};
-
+mod auth_handler;
 mod email_service;
 mod errors;
 mod invitation_handler;
@@ -56,6 +57,7 @@ async fn main() -> std::io::Result<()> {
                             .route(web::get().to(auth_handler::get_me)),
                     ),
             )
+            .service(fs::Files::new("/", "./static/").index_file("index.html"))
     })
     .bind("127.0.0.1:3000")?
     .run()

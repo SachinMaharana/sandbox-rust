@@ -2891,6 +2891,7 @@ checksum = "ef703b7cb59335eae2eb93ceb664c0eb7ea6bf567079d843e09420219668e072"
 name = "sane"
 version = "0.1.0"
 dependencies = [
+ "actix-files",
  "actix-identity",
  "actix-rt",
  "actix-web",
