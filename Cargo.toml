@@ -17,6 +17,9 @@ surf = "2.0.0-alpha.0"
 attohttpc = "0.12.0" 
 anyhow = "*"
 reqwest =  { version = "0.10.4", features = ["json"] }
+serde = "1.0.106" 
+sparkpost = "0.5.3"
+dotenv = "0.15.0"  
 
 [dependencies.async-std]
 version = "1.5.0"
