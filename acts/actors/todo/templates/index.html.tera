@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Actix Todo Example</title>
+        <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/static/css/normalize.css">
+        <link rel="stylesheet" href="/static/css/skeleton.css">
+        <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+
+<body>
+  <div class="container">
+    <p><!-- nothing to see here --></p>
+    {% block form %}
+
+    {% endblock form %}
+    
+    {% block list %}
+
+    {% endblock list %}
+  </div>
+</body>
+</html>

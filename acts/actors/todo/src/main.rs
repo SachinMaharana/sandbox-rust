@@ -14,7 +14,9 @@ use std::{env, io};
 
 mod api;
 mod db;
+mod model;
 mod schema;
+mod session;
 
 static SESSION_KEY: &[u8] = &[0; 32];
 
@@ -47,7 +49,7 @@ async fn main() -> io::Result<()> {
             .wrap(Logger::default())
             .service(web::resource("/").route(web::get().to(api::index)))
             .service(web::resource("/todo").route(web::post().to(api::create)))
-            .service(web::resource("/todo/{id}").route(web::get().to(api::update)))
+            .service(web::resource("/todo/{id}").route(web::post().to(api::update)))
             .service(fs::Files::new("/static", "static/"))
     };
     debug!("Starting Server");
