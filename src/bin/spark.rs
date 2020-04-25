@@ -22,7 +22,7 @@ fn get_api_key() -> String {
 
 fn main() {
     let tm = Transmission::new(get_api_key().to_owned());
-    let mut email = Message::new(EmailAddress::new("email@sachinmaharana.space", "Sachin Maharan"));
+    let mut email = Message::new(EmailAddress::new("register@mail.sachinmaharana.dev", "Sachin Maharan"));
 
 
     let options = Options {
