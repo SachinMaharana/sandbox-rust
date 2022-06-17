@@ -21,4 +21,4 @@ tera = "1.0"
 
 [dependencies.diesel]
 features = ["postgres", "r2d2"]
-version = "1.4.4"
+version = "1.4.6"
